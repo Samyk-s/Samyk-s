@@ -21,13 +21,13 @@ I enjoy creating clean, user-friendly interfaces and am always exploring new tec
 
 Here are some of my recent projects:
 
-- **[Ecommerce](https://github.com/Samyk-s/ecommerce)** – A full-fledged e-commerce platform built with React.
-- **[Nepal Travel Planner](https://github.com/Samyk-s/nepaltravelplanner)** – A Next.js application to help plan trips around Nepal.
-- **[Trash Classifier AI](https://github.com/Samyk-s/trash_classifier_AI)** – An AI model to classify different types of waste.
+- **[Ecommerce](https://ecommerce-coral-five.vercel.app/)** – A full-fledged e-commerce platform built with React.
+- **[Nepal Travel Planner](https://nepaltravelplanner.vercel.app/)** – A Next.js application to help plan trips around Nepal.
+- **[Trash Classifier AI](https://trash-classifier-ai.vercel.app/)** – An AI model to classify different types of waste.
 
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/samyak-bajracharya-b3380028a)
-- [Personal Website](https://samyaksukhdeve.dev/)
+- [Personal Website](https://samyak-bajracharya.vercel.app/)
 
 Feel free to reach out if you'd like to collaborate or just chat about tech!
