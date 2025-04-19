@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Samyk!
 
-<!--
-**Samyk-s/Samyk-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer based in Kathmandu, Nepal. I specialize in building modern web applications using:
 
-Here are some ideas to get you started:
+- **React.js**
+- **Next.js**
+- **HTML, CSS, JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating clean, user-friendly interfaces and am always exploring new technologies to enhance my skills.
+
+## 🔧 Technologies & Tools
+
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+
+## 📂 Featured Projects
+
+Here are some of my recent projects:
+
+- **[Ecommerce](https://github.com/Samyk-s/ecommerce)** – A full-fledged e-commerce platform built with React.
+- **[Nepal Travel Planner](https://github.com/Samyk-s/nepaltravelplanner)** – A Next.js application to help plan trips around Nepal.
+- **[Trash Classifier AI](https://github.com/Samyk-s/trash_classifier_AI)** – An AI model to classify different types of waste.
+
+## 📬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/samyak-bajracharya-b3380028a)
+- [Personal Website](https://samyaksukhdeve.dev/)
+
+Feel free to reach out if you'd like to collaborate or just chat about tech!
