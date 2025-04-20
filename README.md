@@ -28,6 +28,6 @@ Here are some of my recent projects:
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/samyak-bajracharya-b3380028a)
-- [Personal Website](https://samyak-bajracharya.vercel.app/)
+- [Personal Website](https://samyakbajr.vercel.app/)
 
 Feel free to reach out if you'd like to collaborate or just chat about tech!
